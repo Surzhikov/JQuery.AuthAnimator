@@ -1,8 +1,7 @@
 # JQuery.AuthAnimator
 Animate your authorization form
 
-
-![Image of AuthAnimator](https://github.com/Surzhikov/JQuery.AuthAnimator/blob/master/demo.gif | width=100)
+<img src="https://github.com/Surzhikov/JQuery.AuthAnimator/blob/master/demo.gif width="100" height="100" />
 
 1) Connect JQuery and JQuery.AuthAnimator:
 ```
